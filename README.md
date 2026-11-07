@@ -20,8 +20,10 @@
 ## Скриншот работы приложения
 Ниже представлен скриншоты успешного ответа приложения при обращении к базе данных:
 1. Скриншот запуска приложения:
+<img width="631" height="261" alt="image" src="https://github.com/user-attachments/assets/5d695352-b48f-4a17-bc4e-ec745f27d873" />
 
 
 
 2. Скриншот ответа:
+<img width="605" height="460" alt="image" src="https://github.com/user-attachments/assets/d2c367df-1d7c-4e64-b4b7-a7e092046643" />
 
